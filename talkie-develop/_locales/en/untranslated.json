@@ -1,0 +1,46 @@
+{
+  "contextMenuStartStopText": {
+    "message": "Talkie: \"%s\""
+  },
+  "extensionName": {
+    "description": "For the browsers/web stores. Maximum 45 characters.",
+    "message": "Talkie: text-to-speech, many languages!"
+  },
+  "extensionName_Free": {
+    "description": "For the browsers/web stores. Maximum 45 characters.",
+    "message": "Talkie: text-to-speech, many languages!"
+  },
+  "extensionName_Premium": {
+    "description": "For the browsers/web stores. Maximum 45 characters.",
+    "message": "Talkie Premium: text-to-speech many languages"
+  },
+  "extensionShortName": {
+    "description": "For the browsers/web stores. Maximum 12 characters.",
+    "message": "Talkie"
+  },
+  "extensionShortName_Free": {
+    "description": "For the browsers/web stores. Maximum 12 characters.",
+    "message": "Talkie"
+  },
+  "extensionShortName_Premium": {
+    "description": "For the browsers/web stores. Maximum 12 characters.",
+    "message": "Talkie Premium"
+  },
+  "frontend_licenseCLALinkText": {
+    "message": "Contributor License Agreement (CLA)"
+  },
+  "frontend_licenseGPLDescription": {
+    "message": "Copyright © 2016, 2017, 2018, 2019, 2020, 2021 Joel Purra. Talkie is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. Talkie is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details."
+  },
+  "frontend_licenseGPLLinkText": {
+    "message": "GNU General Public License version 3.0 (GPL-3.0)"
+  },
+  "noVoiceForLanguageDetectedMessage": {
+    "description": "This is a fallback message. For this reason it is always in English.",
+    "message": "Sorry, no available voice language detected for the selected text."
+  },
+  "noVoiceForLanguageDetectedMessageLanguage": {
+    "description": "This is a fallback message. For this reason it is always in English.",
+    "message": "en"
+  }
+}

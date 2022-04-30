@@ -1,0 +1,11 @@
+python synthesize.py \
+  --speedyspeech-config=conf/default.yaml \
+  --speedyspeech-checkpoint=exp/default/checkpoints/snapshot_iter_91800.pdz \
+  --speedyspeech-stat=dump/train/stats.npy \
+  --pwg-config=../../parallelwave_gan/baker/conf/default.yaml \
+  --pwg-checkpoint=../../parallelwave_gan/baker/exp/default/checkpoints/snapshot_iter_400000.pdz \
+  --pwg-stat=../../parallelwave_gan/baker/dump/train/stats.npy \
+  --test-metadata=dump/test/norm/metadata.jsonl \
+  --output-dir=exp/default/test \
+  --inference-dir=exp/default/inference \
+  --device="gpu"

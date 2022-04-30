@@ -1,0 +1,10 @@
+_locales/*/messages.json
+*.zip
+*~
+dist/
+lib/
+node_modules/
+package/
+web-ext-artifacts/
+*.xpi
+
